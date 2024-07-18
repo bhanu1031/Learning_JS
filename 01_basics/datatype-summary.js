@@ -18,3 +18,6 @@ let myObj={
 const newFun=function(){
     console.log("Hello world");
 }
+
+// Stack memory (primitive) and Heap memory (non_primitive)
+// in stack it creates a duplicate and in Heap it uses the same reference
